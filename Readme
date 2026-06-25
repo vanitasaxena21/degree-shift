@@ -1,0 +1,15 @@
+Degree-Shift
+Degree-Shift is a simple and responsive temperature converter that helps users convert temperatures 
+between Celsius (°C) and Fahrenheit (°F) instantly.
+
+Features:
+✔ Celsius to Fahrenheit conversion
+✔ Fahrenheit to Celsius conversion
+✔ Responsive design
+✔ User-friendly interface
+✔ Built with HTML, CSS, and JavaScript
+
+Tech Stack:
+- HTML
+- CSS
+- JavaScript
